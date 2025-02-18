@@ -77,8 +77,8 @@ Example:
 ## 🔥 Getting Started
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Brainfuck-Interpreter.git
-    cd Brainfuck-Interpreter
+    git clone https://github.com/siupani/brainfuck
+    cd brainfuck
     ```
 2. Compile using:
     ```sh
